@@ -30,8 +30,8 @@
    <widget class="QToolButton" name="btn_encrypt">
     <property name="geometry">
      <rect>
-      <x>90</x>
-      <y>420</y>
+      <x>170</x>
+      <y>440</y>
       <width>91</width>
       <height>31</height>
      </rect>
@@ -43,8 +43,8 @@
    <widget class="QToolButton" name="btn_decrypt">
     <property name="geometry">
      <rect>
-      <x>240</x>
-      <y>420</y>
+      <x>310</x>
+      <y>440</y>
       <width>81</width>
       <height>31</height>
      </rect>
